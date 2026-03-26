@@ -5,3 +5,6 @@
 # Room 02
 - I just completed the Defensive Security Intro room on TryHackMe! Introducing defensive security, where you will protect FakeBank from an ongoing attack.
 - https://tryhackme.com/room/defensivesecurityintroezn39?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
+# Room 03
+- I just completed What is Networking? room on TryHackMe! Begin learning the fundamentals of computer networking in this bite-sized and interactive module.
+- https://tryhackme.com/room/whatisnetworking?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
