@@ -14,3 +14,6 @@
 # Room 05
 - I just completed the OSI Model room on TryHackMe! Learn about the fundamental networking framework that determines the various stages in which data is handled across a network.
 - https://tryhackme.com/room/osimodelzi?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
+# Room 06
+- I just completed the Packets & Frames room on TryHackMe! Understand how data is divided into smaller pieces and transmitted across a network to another device.
+- https://tryhackme.com/room/packetsframes?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
