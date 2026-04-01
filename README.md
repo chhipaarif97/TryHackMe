@@ -11,3 +11,6 @@
 # Room 04
 - I just completed Intro to LAN room on TryHackMe! Learn about some of the technologies and designs that power private networks.
 - https://tryhackme.com/room/introtolan?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
+# Room 05
+- I just completed the OSI Model room on TryHackMe! Learn about the fundamental networking framework that determines the various stages in which data is handled across a network.
+- https://tryhackme.com/room/osimodelzi?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
