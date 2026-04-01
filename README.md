@@ -18,5 +18,49 @@
 - I just completed the Packets & Frames room on TryHackMe! Understand how data is divided into smaller pieces and transmitted across a network to another device.
 - https://tryhackme.com/room/packetsframes?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
 # Room 07
-- I just completed Extending Your Network room on TryHackMe! Learn about some of the technologies used to extend networks out onto the Internet and the motivations for this.
+- I just completed the Extending Your Network room on TryHackMe! Learn about some of the technologies used to extend networks out onto the Internet and the motivations for this.
 - https://tryhackme.com/room/extendingyournetwork?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
+# Room 08
+- I just completed DNS in Detail room on TryHackMe! Learn how DNS works and how it helps you access internet services.
+- https://tryhackme.com/room/dnsindetail?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
