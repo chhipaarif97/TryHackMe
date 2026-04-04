@@ -26,6 +26,9 @@
 # Room 09
 - I just completed HTTP in Detail room on TryHackMe! Learn about how you request content from a web server using the HTTP protocol.
 - https://tryhackme.com/room/httpindetail?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
+# Room 10
+- I just completed the How Websites Work room on TryHackMe! To exploit a website, you first need to know how it is created.
+- https://tryhackme.com/room/howwebsiteswork?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
 
 
 
