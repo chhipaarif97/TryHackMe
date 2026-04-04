@@ -23,6 +23,9 @@
 # Room 08
 - I just completed DNS in Detail room on TryHackMe! Learn how DNS works and how it helps you access internet services.
 - https://tryhackme.com/room/dnsindetail?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
+# Room 09
+- I just completed HTTP in Detail room on TryHackMe! Learn about how you request content from a web server using the HTTP protocol.
+- https://tryhackme.com/room/httpindetail?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
 
 
 
