@@ -32,6 +32,9 @@
 # Room 11
 - I just completed the Virtualisation Basics room on TryHackMe! Learn why virtualisation powers modern IT, improving efficiency and safely isolating environments.
 - https://tryhackme.com/room/virtualisationbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
+# Room 12
+- I just completed the Cloud Computing Fundamentals room on TryHackMe! Discover how cloud computing helps businesses move faster, do more, and scale with less effort.
+- https://tryhackme.com/room/cloudcomputingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
 
 
 
