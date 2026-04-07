@@ -35,6 +35,9 @@
 # Room 12
 - I just completed the Cloud Computing Fundamentals room on TryHackMe! Discover how cloud computing helps businesses move faster, do more, and scale with less effort.
 - https://tryhackme.com/room/cloudcomputingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
+# Room 13
+- I just completed the Linux CLI Basics room on TryHackMe! Get comfortable navigating through the Linux CLI.
+- https://tryhackme.com/room/linuxclibasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
 
 
 
