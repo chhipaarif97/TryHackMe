@@ -38,7 +38,9 @@
 # Room 13
 - I just completed the Linux CLI Basics room on TryHackMe! Get comfortable navigating through the Linux CLI.
 - https://tryhackme.com/room/linuxclibasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
-
+# Room 14
+- I just completed the Cryptography Concepts room on TryHackMe! This room provides an understanding of cryptography in our everyday digital encounters.
+- https://tryhackme.com/room/cryptographyconcepts?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c405c4164464193b406501
 
 
 
